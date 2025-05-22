@@ -5,8 +5,8 @@
 | Hostname       | OS           | IP              | RAM    | CPU |
 |----------------|--------------|------------------|--------|-----|
 | master-node-1  | Ubuntu 22.04 | 192.168.154.130 | 3 GB   | 2   |
-| worker-node-1  | Ubuntu 22.04 | 192.168.154.131 | 3 GB   | 1   |
-| worker-node-2  | Ubuntu 22.04 | 192.168.154.132 | 3 GB   | 1   |
+| worker-node-1  | Ubuntu 22.04 | 192.168.154.131 | 3 GB   | 2   |
+| worker-node-2  | Ubuntu 22.04 | 192.168.154.132 | 3 GB   | 2   |
 
 ---
 
